@@ -1,0 +1,60 @@
+Mathieu VIEILLEFONT
+Développeur PythonCONTACT
+SAINT CLOUD, 92210 France
++33 6 30 86 28 34 mathieu.vieillefont@gmail.com linkedin.com/in/mathieu-vieillefont
+LIENS
+https://github.com/Mamath79 https://mamath79.github.io/
+COMPÉTENCES
+Languages: • PYTHON
+• SQL
+• HTML/CSS
+• JavaScript
+Frameworks / Bibliothèques:
+• Django
+• Django REST Framework (DRF)
+• Flask
+Outils & Méthodes
+• Git / GitHub
+• CI/CD (GitHub Actions)
+• Docker
+• Sphinx / Documentation technique
+LANGUES
+• Français • Anglais
+• Espagnol
+INTÉRÊTS
+• Musique: Guitariste de New Deal, trompettiste • Sport: Running marathon x3, ski alpin, surf
+• Voyages: USA, Bali, Inde, Liban
+• Hobbies: cinéma, théâtre, restaurants, BricolagePROFIL
+Développeur Python, je capitalise sur 20 ans d'expérience en ingénierie du son (cinéma, télévision, médias) pour apporter rigueur, expertise technique et orientation client à mes projets.
+Ma formation intensive en 2024 m'a permis d’acquérir une solide maîtrise de Python, Django, Flask, des API REST, de l’automatisation et des pipelines CI/CD. Motivé par l’innovation et l’apprentissage continu, je recherche une opportunité pour mettre à profit mes compétences hybrides au sein d'une équipe dynamique et relever des défis techniques stimulants.
+Prêt à contribuer concrètement à vos projets, je suis disponible pour un test sur mission. PROJETS TECHNIQUES PYTHON
+• CRMdegestionclient/contrat/événement(Python,MySQL,architectureMVC,interfaceCLI) • RefonteDjangod’unsitewebdéployéavecDocker,GitHubActionsetRender
+• ContrôleurMIDIUSB(RaspberryPi+Python,communicationBluetooth↔USB)
+• DocumentationavecSphinx,testsunitaires(TDD),versioningavecGit&GitHub
+EXPÉRIENCES PROFESSIONNELLES
+Ingénieur du son - FreeLance Paris, France | Janv. 2011– Présent
+• Enregistrement et mixage audio pour des projets vidéo et 35 mm, en formats Dolby Atmos, 5.1 et stéréo.
+• Collaboration avec des studios de renom tels que TITRA_FILM, DUBBING_BROTHERS, IYUNO, DELUXE
+Media, VSI et LYBRA_FILM.
+• Maîtrise des techniques d'enregistrement et de mixage pour différents formats audio immersifs et
+traditionnels.
+• Montage et édition audio soignés.
+• Expertise des logiciels de post-production (Pro Tools, Logic Pro).
+Ingénieur du son - Dubbing-Brothers
+Paris, France | Sept. 2002 - Dec. 2010
+• Mixage et enregistrement de versions françaises pour des films 35 mm et des productions vidéo en 5.1 et stéréo.
+• Formation et encadrement d'ingénieurs du son débutants.
+• Collaboration avec des studios d'envergure internationale tels que Disney, Warner, Dreamworks, Fox et
+Studio Canal.
+RÉALISATEUR VIDÉO - www.warmlyyours.com Chicago, Illinois_USA | SEPT. 2001 - MAI 2002
+• Réalisation de vidéos d'entreprise, assurant la conception, le tournage et le montage.
+• Production de tutoriels vidéo, de la conception du script à la diffusion finale.
+• Création de campagnes publicitaires vidéo, incluant la gestion de la production et le post-production.
+FORMATION
+Développeur d’applications Python - Openclassrooms Paris, France | Jan. 2024 à Avr. 2025
+• Développement d'applications Python (Django, SQLAlchemy) intégrant des bases de données MySQL. • Mise en œuvre de pipelines CI/CD et conteneurisation Docker.
+• Expertise en gestion de versions Git et GitHub.
+• Conception et développement d'un CRM en ligne de commande et d'une application Django.
+• Tests unitaires et documentation Sphinx. BTS Audiovisuel - Option Son - EICAR
+Paris, France | Sep. 1999 à Juin. 2001
+BACCALAURÉAT scientifique - Option Mathématiques

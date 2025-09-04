@@ -1,0 +1,12 @@
+Projet Phare OC formation python avec lien GitHub:
+
+
+OC_P4_Developpez-un-programme-logiciel-en-Python :
+https://github.com/Mamath79/OC_P4_Developpez-un-programme-logiciel-en-Python
+
+OC_P12_D-veloppez-une-architecture-back-end-securisee-avec-Python-et-SQL:
+https://github.com/Mamath79/OC_P12_D-veloppez-une-architecture-back-end-securisee-avec-Python-et-SQL
+
+Projet_13_Mettez_a_l_echelle_une_application_Django_en_utilisant_une_architecture_modulaire:
+https://github.com/Mamath79/Projet_13_Mettez_a_l_echelle_une_application_Django_en_utilisant_une_architecture_modulaire
+
